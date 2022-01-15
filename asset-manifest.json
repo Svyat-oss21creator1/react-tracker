@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Svyat-oss21creator1/react-tracker-.git/static/css/main.a96fdd63.css",
-    "main.js": "/Svyat-oss21creator1/react-tracker-.git/static/js/main.7a0e463c.js",
-    "static/media/JHehdEm.png": "/Svyat-oss21creator1/react-tracker-.git/static/media/JHehdEm.9eedd35ce38ed09927fa.png",
-    "index.html": "/Svyat-oss21creator1/react-tracker-.git/index.html",
-    "main.a96fdd63.css.map": "/Svyat-oss21creator1/react-tracker-.git/static/css/main.a96fdd63.css.map",
-    "main.7a0e463c.js.map": "/Svyat-oss21creator1/react-tracker-.git/static/js/main.7a0e463c.js.map"
+    "main.css": "/react-tracker-/static/css/main.650c91ee.css",
+    "main.js": "/react-tracker-/static/js/main.844f217c.js",
+    "static/media/JHehdEm.png": "/react-tracker-/static/media/JHehdEm.9eedd35ce38ed09927fa.png",
+    "index.html": "/react-tracker-/index.html",
+    "main.650c91ee.css.map": "/react-tracker-/static/css/main.650c91ee.css.map",
+    "main.844f217c.js.map": "/react-tracker-/static/js/main.844f217c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a96fdd63.css",
-    "static/js/main.7a0e463c.js"
+    "static/css/main.650c91ee.css",
+    "static/js/main.844f217c.js"
   ]
 }
